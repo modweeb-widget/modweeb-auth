@@ -1,0 +1,6 @@
+.alert-card { background: var(--contentB); border-radius: 20px; border: 1px solid var(--contentL); overflow: hidden; max-width: 400px; margin: 0 auto; }
+.alert-card-header { padding: 16px 16px 0 16px; text-align: right; color: var(--bodyC); }
+.alert-card-title { font-size: 16px; font-weight: 500; color: var(--headC); margin-bottom: 3px; }
+.alert-card-description { font-size: 14px; color: var(--bodyC); margin-bottom: 5px; }
+.alert-card-footer { border-top: 1px solid var(--contentL); padding: 12px 17px; display: flex; gap: 10px; color: var(--bodyC); font-size: 12px; }
+.alert-card-footer .button { flex: 1; }
